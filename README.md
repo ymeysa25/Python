@@ -6,8 +6,8 @@ Contain Some Python project just for fun. I will add more and more python projec
 - Tkiner 8.6
 
 #### How to use
-1. Go to program path in ur CMD / Anaconda Prompt <br>
+- Go to program path in ur CMD / Anaconda Prompt <br>
 -- cd PROGRAM_PATH
-2. Run the script by typing "python (script-name).py in your terminal"<br>
+- Run the script by typing "python (script-name).py in your terminal"<br>
 -- python app.py
 
